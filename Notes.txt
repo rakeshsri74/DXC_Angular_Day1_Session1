@@ -1,0 +1,25 @@
+What is Typescript?
+
+npm install -g typescript
+
+tsc Demo1.ts
+
+node Demo1.js
+
+Angular:
+	Angular is open source,Typescript based frontend web application framework.
+	Angular helps us to create SPA(Single page Application)
+Install Angular cli using npm
+	npm install -g @angular/cli
+
+ng new expense-manager
+cd expense-manager
+ng serve
+
+
+The angular framework is based on four core concepts and they are as follows:
+	-Components
+	-Templates with Data Binding
+	-Modules
+	-Services and Dependency Injection
+
